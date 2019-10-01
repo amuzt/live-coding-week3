@@ -13,17 +13,6 @@ bola ping-pong berwarna merah dan putih masing-masing di dalam kotak A.
 
 */
 START
-PUT jumlah_bola_keseluruhan with any value
-
-READ bolamerah = jumlah_bola_keseluruhan - bolaputih
-READ bolaputih = jumlah_bola_keseluruhan - bolamerah
-
-SHOW BOLA MERAH
-SHOW BOLA PUTIH
-
-END
-
-START
 
 AMBIL BOLA DARI KOTAK A
 

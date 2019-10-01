@@ -22,17 +22,6 @@
  * @output = 7
  */
 
-var dadu1 = 4
-var dadu2 = 6
-// Write your code here
-if (dadu1 == dadu2) {
-    console.log(dadu1++)
-} else if (dadu2 > 6) {
-    console.log(1)
-} else(dadu2 == dadu1 == 6) {
-    console.log(dadu2++)
-}
-
 var dadu1 = 5;
 var dadu2 = 6;
 
